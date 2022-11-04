@@ -69,9 +69,10 @@ Tried to use `nmap 35.227.41.129` command on Kali Linux VM to check for open por
 
 ### Database Backup (Required) 
 
-**Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
+**Summary:** 
+What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
-MHN-Admin uses MongoDB to accumulate attacks performed on the honeypot VM and saves it in session.json file.
+**_MHN-Admin uses MongoDB to accumulate attacks performed on the honeypot VM and saves it in session.json file._**
 
 
 ## Challenges
