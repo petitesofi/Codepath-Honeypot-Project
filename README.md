@@ -3,7 +3,7 @@
    _As an aspiring computer science professional, I pursued this project to gain practical insights into cybersecurity and honeypot deployment. My academic background includes a Bachelor of Science in Computer Science from Temple University, where I acquired a strong foundation in programming languages and problem-solving skills. I also completed the Codepath Intermediate Cybersecurity Course, equipping me with the knowledge necessary for offensive security techniques._
 
 ### Objective:
-Create a honeynet using MHN-Admin. Present your findings as if you were requested to give a brief report on the current state of Internet security. Assume that your audience is a current employer who is questioning why the company should allocate any more resources to the IT security team.
+Create a honeypot using MHN-Admin. Present your findings as if you were requested to give a brief report on the current state of Internet security. Assume that your audience is a current employer who is questioning why the company should allocate any more resources to the IT security team.
 
 ### Background:
 A honeypot serves as a deceptive application, server, or networked asset intentionally designed to expose vulnerabilities. When an attacker attempts to exploit these vulnerabilities, it provides insights into the attacker's methods, tools, and potentially their identity. Security researchers frequently employ honeypots to gain a deeper understanding of the challenges faced by developers and system administrators. They collect various data points, including:
